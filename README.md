@@ -1,4 +1,4 @@
-# React Shopping Cart App
+# React/Redux Toolkit Shopping Cart App
 
 <img src="public\example.gif" width="100%"/>
 
