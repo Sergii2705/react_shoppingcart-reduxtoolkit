@@ -1,6 +1,7 @@
 # React Shopping Cart App
 
 <img src="public\example.gif" width="100%"/>
+
 #### Description:
 This project is a React application that allows you to add products to the cart, change the quantity of a product, remove a product from the cart, or empty the entire cart. To store the global state of the application, the Redux Toolkit library is used.
 
